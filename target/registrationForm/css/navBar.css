@@ -1,0 +1,18 @@
+ul{
+    background-color:orange;
+    padding:20px;
+    margin-top: 50px;
+}
+ul li{
+    display:inline;
+    padding:20px;
+}
+ul li a{
+    text-decoration:none;
+    color:white;
+}
+ul li a:hover{
+    background-color:white;
+    color:black;
+    padding:10px;
+}
